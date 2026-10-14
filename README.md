@@ -11,10 +11,9 @@ The exercises focus on solving and simulating macroeconomic models, analyzing th
 3. **New Keynesian DSGE Model:** Analysis of productivity and monetary policy shocks under alternative monetary policy regimes.
 4. **Financial Accelerator (BGG) Model:** Analysis of financial frictions and the transmission of productivity and entrepreneurial net-worth shocks.
 
-## Tools and Methods
+## Tools
 
 - **Software:** MATLAB and Dynare.
-- **Methods:** Numerical solutions, steady-state analysis, stochastic simulations, impulse response functions, and sensitivity analysis.
 
 ## Academic Context
 
